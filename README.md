@@ -46,19 +46,6 @@ Please note that while the code has been correctly pushed, some assets and the m
 ![image](https://github.com/khaled71612000/Top-Down-Shooter/assets/59780800/15c8d290-202d-4a14-b6ce-635e5116a60e)
 
 
-## Screenshots
-
-![Screenshot 1](https://raw.githubusercontent.com/khaled71612000/Top-Down-Shooter/HEAD/Content/sA_PickupSet_1/Materials/Textures/Beam01.png)
-
-![Screenshot 2](https://raw.githubusercontent.com/khaled71612000/Top-Down-Shooter/HEAD/Content/sA_PickupSet_1/Materials/Textures/Noise00.png)
-
-![Screenshot 3](https://raw.githubusercontent.com/khaled71612000/Top-Down-Shooter/HEAD/Content/sA_PickupSet_1/Materials/Textures/Noise000.png)
-
-![Screenshot 4](https://raw.githubusercontent.com/khaled71612000/Top-Down-Shooter/HEAD/Content/sA_PickupSet_1/Materials/Textures/Noise01.png)
-
-![Screenshot 5](https://raw.githubusercontent.com/khaled71612000/Top-Down-Shooter/HEAD/Content/sA_PickupSet_1/Materials/Textures/Noise02.png)
-
-
 ## Tech Stack
 
 | Technology | Role |
