@@ -7,6 +7,13 @@
 
 **Top-Down Shooter** is a project developed using the Unreal Engine, designed to create an engaging top-down shooter game. This project focuses on advanced gameplay mechanics, AI interactions, and immersive player experiences.
 
+
+## Live Demo
+
+[![Watch Gameplay Demo](https://img.youtube.com/vi/_h-xcQ6VQqE/maxresdefault.jpg)](https://youtu.be/_h-xcQ6VQqE)
+
+> Click the thumbnail above to watch the full demo video.
+
 ## Key Components
 
 ### Config
@@ -50,6 +57,17 @@ Please note that while the code has been correctly pushed, some assets and the m
 ![Screenshot 4](https://raw.githubusercontent.com/khaled71612000/Top-Down-Shooter/HEAD/Content/sA_PickupSet_1/Materials/Textures/Noise01.png)
 
 ![Screenshot 5](https://raw.githubusercontent.com/khaled71612000/Top-Down-Shooter/HEAD/Content/sA_PickupSet_1/Materials/Textures/Noise02.png)
+
+
+## Tech Stack
+
+| Technology | Role |
+|---|---|
+| Unreal Engine 4/5 | Game engine (Blueprints + C++) |
+| C++ | Gameplay systems, custom components |
+| HLSL / USF | Custom shader authoring |
+| Git LFS | Large asset version control |
+
 
 ## Getting Started
 
